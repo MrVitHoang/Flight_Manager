@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/checkin/ICheckin.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/passenger/IPassengerManager.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/menu/Menu.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/menu/MenuFunction.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/checkin/CheckinManager.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/dtos/Person.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/flight/IFlighManager.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/main/main.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/passenger/PassengerManager.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/dtos/Passenger.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/checkin/Checkin.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/crew/CrewManager.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/flight/FlightList.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/dtos/Crew.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/crew/ICrewManager.java</file>
+            <file>file:/D:/taiLieuHoc/SEM3/LAB211/flightManager/src/dtos/Flight.java</file>
+        </group>
+    </open-files>
+</project-private>
